@@ -1,0 +1,33 @@
+{
+  "name": "nodegram",
+  "version": "1.0.0",
+  "description": "A viewer for Instagram photos with nodejs",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marciosmelo/nodegram.git"
+  },
+  "keywords": [
+    "node",
+    "instagram",
+    "nodejs",
+    "express",
+    "ejs",
+    "instagram-node",
+    "app"
+  ],
+  "author": "@marciosmelo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marciosmelo/nodegram/issues"
+  },
+  "homepage": "https://github.com/marciosmelo/nodegram#readme",
+  "dependencies": {
+    "ejs": "^2.5.7",
+    "express": "^4.16.2",
+    "instagram-node": "^0.5.8"
+  }
+}
